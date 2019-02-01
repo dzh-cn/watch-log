@@ -1,0 +1,2 @@
+start bin:
+        /export/servers/jdk1.8.0_66/jre/bin/java -jar watch-log.jar

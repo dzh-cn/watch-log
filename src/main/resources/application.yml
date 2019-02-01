@@ -1,0 +1,7 @@
+server:
+  port: 8571
+spring:
+  http:
+    encoding:
+      charset: utf-8
+      force: true
